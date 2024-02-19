@@ -1,0 +1,28 @@
+
+def init_app(event_struct):
+    return
+
+
+def wifi_scan_button_cb(event_struct):
+    return
+
+
+def save_slider(event_struct):
+    return
+
+
+def WifiKeyboardReady(event_struct):
+    return
+
+
+def software_upgrade_button(event_struct):
+    return
+
+
+def screen_brightness_slider(event_struct):
+    return
+
+
+def save_settings_screen(event_struct):
+    return
+
